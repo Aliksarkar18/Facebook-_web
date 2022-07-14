@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #dfe3ee;
+}
+.box{
+    margin-top: 270px;
+    margin-left: 180px;
+
+}
+h1{
+    font-size: 70px;
+    color:  #1877f2;
+    font-family: sans-serif;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 34px;
+    width: 574px;
+}
+.container{
+    background-color: white;
+    height: 370px;
+    width: 400px; 
+    float: right;
+    margin-right: 210px;
+    margin-top: -246px;
+    border-radius: 10px;
+    text-align: center;
+}
+.formpage{
+    float: right;
+    background-color: white;
+    margin-top: 12px;
+    width: 400px;
+    /* border: 2px solid black; */
+    
+}
+.formpage input{
+    margin-top: 10px;
+    padding: 17px;
+    width: 332px;
+    border-radius: 10px;
+    font-size: 15px;
+
+}
+.formpage p a{
+    text-decoration: none;
+}
+.formpage p a :hover, .formpage p a:active{
+    text-decoration: underline;
+    color: #0d35c8;
+}
+button{
+    margin-top: 20px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 92%;
+    border-radius: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+p{
+    background-color: white;
+    margin-top: 10px;
+    font-size: 16px;
+}
+p a{
+    color: #1877f2;
+    background-color: white;
+}
+.btn{
+    margin-top: 15px;
+    background-color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+   
+}
+.btn button{
+    background-color: #1b9c24;
+}
+.ctn:hover{
+    background-color: #5199f7;
+}
+.dtn:hover{
+    background-color: #3ad445;
+}
